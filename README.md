@@ -1,7 +1,5 @@
 # FRTPProject
-**Project for Future Ready Talent Program**
-
-**Azure Deployment:** https://lively-sky-0cf6bc110.1.azurestaticapps.net 
+**Project for Future Ready Talent Program (2022)**
 
 **About the Project:**
 
